@@ -3,7 +3,7 @@ title: Participate
 layout:  null
 tab: true
 order: 2
-tags: main
+tags: privacy
 ---
 
 # Participate and Discuss
