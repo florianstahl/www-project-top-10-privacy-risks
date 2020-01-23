@@ -1,8 +1,10 @@
 ---
 title: Participate & Discuss
-layout: null
+layout: col-sidebar
 tab: true
-order: 3
+order: 2
+level: 0
+type: documentation
 tags: main
 ---
 
