@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Top 10 Privacy Risks
-tags: main
+tags: privacy
 level: 0
 type: documentation
 
