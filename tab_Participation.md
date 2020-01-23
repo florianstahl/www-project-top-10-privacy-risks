@@ -1,10 +1,8 @@
 ---
-title: Participate & Discuss
-layout: null
+title: Participate
 tab: true
 order: 2
-type: documentation
 tags: main
 ---
 
-# Participate & Discuss
+# Participate and Discuss
