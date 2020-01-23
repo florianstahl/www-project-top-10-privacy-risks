@@ -1,9 +1,9 @@
 ---
-title: Example
-layout:  null
+title: Participate & Discuss
+layout: null
 tab: true
-order: 1
-tags: example-tag
+order: 3
+tags: main
 ---
 
 # Participate & Discuss
